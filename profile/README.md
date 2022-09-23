@@ -1,4 +1,4 @@
-## Hello 我們是五倍學院 👋
+## Hello World, 我們是五倍學院 👋
 
 > 不只停留在教你釣魚，更引領你乘風破浪 - 高見龍
 
@@ -6,6 +6,6 @@
 
 --- 
 
-歡迎前往[官方網站](https://5xruby.tw/courses/)了解更多課程資訊
+歡迎前往[官方網站](https://5xruby.tw/courses/)或是我們的[線上課程](https://base.5xcampus.com)網站了解更多課程資訊
 
 讓我們在五倍，一起超越五倍！
